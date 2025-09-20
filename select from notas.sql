@@ -1,0 +1,2 @@
+SELECT * FROM NOTAS1;
+
